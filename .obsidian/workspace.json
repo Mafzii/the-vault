@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3350cd5342467e06",
+        "id": "5e1f4e986cd05db7",
         "type": "tabs",
         "children": [
           {
-            "id": "3596e297b980e381",
+            "id": "968f855bd10742d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -126,6 +126,16 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "39294effa79f9bae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
           }
         ]
       }
@@ -144,12 +154,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22e2b2ec10035308",
+  "active": "968f855bd10742d2",
   "lastOpenFiles": [
+    "Frontend/Roadmap.canvas",
+    "README.md",
+    "Frontend",
     "Untitled.canvas",
+    "Backend Roadmap/Untitled.canvas",
+    "Backend Roadmap/Untitled.md",
+    "Backend",
     "2023-12-04.md",
     "2023-12-03.md",
-    "Untitled",
     "hello.md"
   ]
 }
