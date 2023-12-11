@@ -1,0 +1,3 @@
+- [x] make a randomly generated particle system
+- [x] add random sizes
+- [ ] fix issue where a particle gets trapped in the corners of the canvas
