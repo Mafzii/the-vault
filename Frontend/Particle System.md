@@ -1,3 +1,4 @@
 - [x] make a randomly generated particle system
 - [x] add random sizes
+- [x] media controls
 - [ ] fix issue where a particle gets trapped in the corners of the canvas
