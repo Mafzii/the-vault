@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6bf91b3549be534d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend/The Odin Project/Important Points.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fa9dbd6b2209cf43",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5952d0eea06243f2",
@@ -170,8 +158,11 @@
   "active": "fa9dbd6b2209cf43",
   "lastOpenFiles": [
     "Interview Prep/LeetCode.md",
-    "2023-12-27.md",
     "Frontend/The Odin Project/Important Points.md",
+    "Interview Prep/Leetcode/Stack.md",
+    "Interview Prep/Leetcode.md",
+    "Interview Prep/Leetcode",
+    "2023-12-27.md",
     "Interview Prep",
     "Frontend/Particle System.md",
     "Frontend/Roadmap.canvas",

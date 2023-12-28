@@ -31,4 +31,13 @@
 	- When `flex-direction` is row then the main axis is horizontal and the cross axis is vertical. When `flex-direction` is column then the axes are swapped
 
 #### JavaScript
-- 
+- There are eight primitive data types in JS: ==string, number, bigint, boolean, null, undefined, symbol== 
+- There is also one non-primitive data type: object
+- Use backticks for strings so that its easier to add variables to string literals
+- undefined is the default value for a declared variable
+- null is the value assigned to an empty object
+- undefined and null are both falsy values
+- Truthy and falsy values are those values that when passed into a logical operation are converted to true or false respectively
+- Short circuit evaluation in logical operations (using the fact that OR will stop after the first truthy value, AND will stop after the first falsy value)
+- JS is single threaded. The call stack works by creating a global execution context (main() or global()) and subsequent function execution contexts
+- Anonymous functions are functions without names, often passed as arguments to other functions
