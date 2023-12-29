@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5e1f4e986cd05db7",
+        "id": "b55b2c697cdca1e1",
         "type": "tabs",
         "children": [
           {
-            "id": "fa9dbd6b2209cf43",
+            "id": "4c77c697d7b57f1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/The Odin Project/Important Points.md",
+                "file": "Backend/REST API's.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5952d0eea06243f2",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/The Odin Project/Important Points.md",
+                "file": "Backend/REST API's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/The Odin Project/Important Points.md",
+                "file": "Backend/REST API's.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/The Odin Project/Important Points.md"
+                "file": "Backend/REST API's.md"
               }
             }
           }
@@ -155,16 +154,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa9dbd6b2209cf43",
+  "active": "4c77c697d7b57f1c",
   "lastOpenFiles": [
+    "Devops/ELK Stack.md",
+    "Backend/REST API's.md",
+    "Frontend/Particle System.md",
+    "Frontend/The Odin Project.md",
+    "Rest.md",
+    "Backend",
+    "Devops",
+    "Devops/ELK",
     "Interview Prep/LeetCode.md",
-    "Frontend/The Odin Project/Important Points.md",
     "Interview Prep/Leetcode/Stack.md",
     "Interview Prep/Leetcode.md",
-    "Interview Prep/Leetcode",
+    "Interview Prep/DS&A",
     "2023-12-27.md",
     "Interview Prep",
-    "Frontend/Particle System.md",
     "Frontend/Roadmap.canvas",
     "Frontend/The Odin Project",
     "README.md",
