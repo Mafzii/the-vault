@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/REST API's.md",
+                "file": "Devops/Elastic Stack.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5952d0eea06243f2",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/REST API's.md",
+                "file": "Devops/Elastic Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/REST API's.md",
+                "file": "Devops/Elastic Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/REST API's.md"
+                "file": "Devops/Elastic Stack.md"
               }
             }
           }
@@ -156,8 +157,8 @@
   },
   "active": "4c77c697d7b57f1c",
   "lastOpenFiles": [
-    "Devops/ELK Stack.md",
     "Backend/REST API's.md",
+    "Devops/Elastic Stack.md",
     "Frontend/Particle System.md",
     "Frontend/The Odin Project.md",
     "Rest.md",
