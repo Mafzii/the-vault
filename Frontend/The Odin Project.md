@@ -1,4 +1,4 @@
-#### CSS
+#### CSS Foundations
 - * is the universal selector
 - Specificity (priority):
 	- ID selectors
@@ -30,7 +30,7 @@
 	- `justify-content` affects items on the main axis while align-items affects items on the cross axis
 	- When `flex-direction` is row then the main axis is horizontal and the cross axis is vertical. When `flex-direction` is column then the axes are swapped
 
-#### JavaScript
+#### JavaScript Foundations
 - There are eight primitive data types in JS: ==string, number, bigint, boolean, null, undefined, symbol== 
 - There is also one non-primitive data type: object
 - Use backticks for strings so that its easier to add variables to string literals
@@ -41,3 +41,10 @@
 - Short circuit evaluation in logical operations (using the fact that OR will stop after the first truthy value, AND will stop after the first falsy value)
 - JS is single threaded. The call stack works by creating a global execution context (main() or global()) and subsequent function execution contexts
 - Anonymous functions are functions without names, often passed as arguments to other functions
+
+### Intermediate HTML & CSS 
+- Use semantic HTML when a piece of text needs to be emphasized, if it needs to be styled then a CSS property is enough
+- Letter spacing can be used in negative to create a overlapping effect
+- Line height changes the space between lines (only applies to wrapped text), used for readability
+- Use overflow to add scrollbars to content that exceeds its containers width or height
+- 
