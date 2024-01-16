@@ -47,4 +47,7 @@
 - Letter spacing can be used in negative to create a overlapping effect
 - Line height changes the space between lines (only applies to wrapped text), used for readability
 - Use overflow to add scrollbars to content that exceeds its containers width or height
+- Pseudo-classes include :hover, :focus, etc.
+- Pseudo-elements allow us to customize different parts of our default elements like ::selection allows us to change the color of highlighting on our page
+- Attribute selectors select all tags with the specified property such as \[href\] for an img tag
 - 
