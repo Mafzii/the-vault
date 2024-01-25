@@ -44,10 +44,37 @@
 
 ### Intermediate HTML & CSS 
 - Use semantic HTML when a piece of text needs to be emphasized, if it needs to be styled then a CSS property is enough
-- Letter spacing can be used in negative to create a overlapping effect
-- Line height changes the space between lines (only applies to wrapped text), used for readability
+- Line Styles
+	- Letter spacing can be used in negative to create a overlapping effect
+	- Line height changes the space between lines (only applies to wrapped text), used for readability
 - Use overflow to add scrollbars to content that exceeds its containers width or height
-- Pseudo-classes include :hover, :focus, etc.
-- Pseudo-elements allow us to customize different parts of our default elements like ::selection allows us to change the color of highlighting on our page
-- Attribute selectors select all tags with the specified property such as \[href\] for an img tag
-- 
+- Pseudo-classes include `:hover`, `:focus`, etc.
+- Pseudo-elements allow us to customize different parts of our default elements like `::selection` allows us to change the color of highlighting on our page
+- Attribute selectors select all tags with the specified property such as `[href]` for an `img` tag
+- Positioning:
+	- Static is the default positioning
+	- Relative is the same as static but can be displaced using offset properties like `left`
+	- Absolute positioning can place something anywhere on the screen without disturbing other elements on the page
+	- Fixed is the same as absolute but as you scroll the fixed element retains its position
+	- Sticky is the same as fixed but it will only go to a certain position after you scroll to a point where it is out of the viewport
+- CSS Functions: 
+	- Check out the uses for min(), max(), and clamp()
+	- Use CSS variables, declared like so `--example-variable`, with these functions for cool tricks
+- Web Compatibility:
+	- If you wanna view a website on IOS or iPad OS then make sure the website is compatible with Safari web view
+	- Use SASS pre-processor to make CSS more maintainable
+- Forms
+	- The name attribute determines the names attached to the data the backend receives
+	- `fieldset` tags can be used to contain similar form inputs and a `legend` tag can be used to label this `fieldset`
+	- Form Validation
+		- `required`
+		- `minlength`
+		- `maxlength`
+		- `pattern`
+	- Style validations using the `:valid` and `:invalid` pseudo-classes
+- Flexbox vs Grid
+	- Use a mixture of flexbox and grid to design layouts they are container specific (only affect direct children)
+	- Use flexbox when the layout is only aligned with other items in one dimension
+	- Use grid for a layout that lines up in both dimensions
+	- Grid can also be used to overlap 2 items with variable content lengths (useful!!!)
+	- 

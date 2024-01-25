@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5952d0eea06243f2",
@@ -157,10 +156,11 @@
   },
   "active": "4c77c697d7b57f1c",
   "lastOpenFiles": [
+    "Frontend/Roadmap.canvas",
+    "Frontend/The Odin Project.md",
     "Devops/Elastic Stack.md",
     "Backend/REST API's.md",
     "Frontend/Particle System.md",
-    "Frontend/The Odin Project.md",
     "Rest.md",
     "Backend",
     "Devops",
@@ -171,7 +171,6 @@
     "Interview Prep/DS&A",
     "2023-12-27.md",
     "Interview Prep",
-    "Frontend/Roadmap.canvas",
     "Frontend/The Odin Project",
     "README.md",
     "Frontend",
