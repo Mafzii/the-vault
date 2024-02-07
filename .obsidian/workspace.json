@@ -8,29 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "578e16769b195eaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend/The Odin Project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "782c3a5727d58617",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "canvas",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "Roadmap.canvas",
+                "viewState": {
+                  "x": 185.17541589273708,
+                  "y": -233.6290482710113,
+                  "zoom": -0.3333333333333334
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/The Odin Project.md",
+                "file": "Roadmap.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/The Odin Project.md",
+                "file": "Roadmap.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/The Odin Project.md"
+                "file": "Roadmap.canvas"
               }
             }
           }
@@ -167,21 +159,24 @@
   },
   "active": "782c3a5727d58617",
   "lastOpenFiles": [
-    "Frontend/Roadmap.canvas",
-    "Frontend/The Odin Project.md",
-    "Devops/Elastic Stack.md",
-    "Backend/REST API's.md",
     "Frontend/Particle System.md",
+    "Backend/Fundamentals Course.md",
+    "Backend/REST API's.md",
+    "Roadmap.canvas",
+    "Interview Prep/Leetcode.md",
+    "Interview Prep",
+    "Devops/Elastic Stack.md",
+    "Interview Prep/Untitled.canvas",
+    "Devops/ELK Stack.md",
+    "Frontend/The Odin Project.md",
     "Rest.md",
     "Backend",
     "Devops",
     "Devops/ELK",
     "Interview Prep/LeetCode.md",
     "Interview Prep/Leetcode/Stack.md",
-    "Interview Prep/Leetcode.md",
     "Interview Prep/DS&A",
     "2023-12-27.md",
-    "Interview Prep",
     "Frontend/The Odin Project",
     "README.md",
     "Frontend",
