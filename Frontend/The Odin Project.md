@@ -31,7 +31,7 @@
 	- When `flex-direction` is row then the main axis is horizontal and the cross axis is vertical. When `flex-direction` is column then the axes are swapped
 
 #### JavaScript Foundations
-- There are eight primitive data types in JS: ==string, number, bigint, boolean, null, undefined, symbol== 
+- There are eight primitive data types in JS: string, number, bigint, boolean, null, undefined, symbol
 - There is also one non-primitive data type: object
 - Use backticks for strings so that its easier to add variables to string literals
 - undefined is the default value for a declared variable

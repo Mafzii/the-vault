@@ -11,14 +11,11 @@
             "id": "782c3a5727d58617",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Roadmap.canvas",
-                "viewState": {
-                  "x": 185.17541589273708,
-                  "y": -233.6290482710113,
-                  "zoom": -0.3333333333333334
-                }
+                "file": "Interview Prep/DSA.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roadmap.canvas",
+                "file": "Interview Prep/DSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roadmap.canvas",
+                "file": "Interview Prep/DSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roadmap.canvas"
+                "file": "Interview Prep/DSA.md"
               }
             }
           }
@@ -157,18 +154,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "782c3a5727d58617",
+  "active": "0da411b1b77efc26",
   "lastOpenFiles": [
-    "Frontend/Particle System.md",
-    "Backend/Fundamentals Course.md",
     "Backend/REST API's.md",
-    "Roadmap.canvas",
-    "Interview Prep/Leetcode.md",
-    "Interview Prep",
+    "Backend/Fundamentals Course.md",
     "Devops/Elastic Stack.md",
+    "Frontend/Particle System.md",
+    "Frontend/The Odin Project.md",
+    "Interview Prep/DSA.md",
+    "Roadmap.canvas",
+    "Interview Prep",
     "Interview Prep/Untitled.canvas",
     "Devops/ELK Stack.md",
-    "Frontend/The Odin Project.md",
     "Rest.md",
     "Backend",
     "Devops",
