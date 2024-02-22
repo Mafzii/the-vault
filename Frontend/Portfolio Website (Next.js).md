@@ -1,0 +1,5 @@
+- [ ] mobile responsiveness (<768) 
+- [ ] complete gmail api integration for contact form
+- [ ] update content like about section
+- [ ] see options for typography and further animation (ask kz?)
+- [ ] 
