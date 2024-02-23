@@ -23,7 +23,33 @@
 	- Chunked Transfers: content is sent in pieces in the case of dynamic content, content-length for each chunk is sent. When all chunks are sent a chunk of length 0 is sent to indicate the end
 - 2:
 	- Made to solve the issue of multiple persistent connections needed
-	- Goal was to reduce latency by making requests smaller for a performance gain and more secure
+	- Another goal was to reduce latency by making requests smaller for a performance gain and more secure
 	- Binary data sent
 	- Multiplexing: Multiple async requests possible on one connection
 	- Header Compression
+	- Frames and Streams: 
+		- All HTTP/2 messaged are made up of frames
+		- HEADER frame includes metadata
+		- DATA frame includes the payload
+		- Each request or response has a unique stream ID and is divided into frames
+		- A collection of frames is a stream
+	- Multiplexing:
+		- Frames and Streams allow for asynchronous connections
+		- Multiplexing is when multiple requests are sent and they are processed asynchronously 
+		- Response is also asynchronous and stream ids are used to see which packet belongs to which request id
+	- Header Compression:
+		- Sending header details in plain-text each request would bloat request size slowing down connections
+		- Headers are also compressed using gzip
+		- A header table is also maintained on client and server side. So that repetitive headers are omitted from requests and responses
+	- Server Push:
+		- Server sends client resources that the server knows the client will ask for in subsequent requests
+		- Server will send a special frame called PUSH_PROMISE
+		- PUSH_PROMISE contains the stream id that will have the resource that the client will eventually request
+	- Request Prioritization:
+		- Certain requests can be prioritized. Otherwise the server processes requests asynchronously
+		- When a PRIORITY frame is sent the server will allocate resources to complete this stream first
+	- Security:
+		- TLS is required
+
+### Browsers
+- 
