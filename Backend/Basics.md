@@ -52,4 +52,32 @@
 		- TLS is required
 
 ### Browsers
-- 
+- Browsers show us a resource (HTML, PDF, etc.) on the basis of a URI (Uniform Resource Identifier)
+- High-level infrastructure:
+	- User interface
+	- Browser engine 
+		- marshals actions between the UI and rendering engine
+	- Rendering engine 
+		- displays requested content
+	- Networking 
+		- handles all http requests and other network interactions
+	- UI backend
+		- used for drawing widgets like combo boxes by exposing a generic interface
+	- JS interpreter
+		- executes JS and returns result to the rendering engine
+	- Data storage
+		- local storage etc.
+- Main flow:
+	- The rendering engine begins by requesting the initial content to be rendered from the networking layer
+	- The content tree is made by parsing HTML and creating a tree with DOM nodes (e.g. `HTMLElementBody` for a `<body>` tag)
+	- The render tree is made by parsing CSS data
+	- Next, the layout is processed giving all nodes their coordinate positions on the screen
+	- Then the render tree is traversed and each node is then painted using the UI backend layer, this is called painting
+	- This flow can differ for different browsers and engines (webKit vs Gecko)
+
+### DNS
+- Naming system for Internet connected resources
+- Readable names for IP addresses
+- DNS maintains a list of domain names and their associated IP addresses
+- Doesn't necessarily need to be a webpage, can be any resource like an image or video
+
