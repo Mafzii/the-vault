@@ -77,4 +77,12 @@
 	- Use flexbox when the layout is only aligned with other items in one dimension
 	- Use grid for a layout that lines up in both dimensions
 	- Grid can also be used to overlap 2 items with variable content lengths (useful!!!)
-	- 
+
+### Advanced JavaScript
+- `class` syntax vs `prototype` syntax
+	- `prototype` is a group of properties all objects in JS have
+	- This list of functions and values can be changed to create custom objects that share functionality
+	- `class` is current convention, syntactic sugar over prototype based solution
+	- This is a more familiar way to handle objects and widely used
+- 
+

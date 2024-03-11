@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Basics.md",
+                "file": "Frontend/Portfolio Website (Next.js).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Basics.md",
+                "file": "Frontend/Portfolio Website (Next.js).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Basics.md",
+                "file": "Frontend/Portfolio Website (Next.js).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Basics.md"
+                "file": "Frontend/Portfolio Website (Next.js).md"
               }
             }
           }
@@ -156,13 +156,13 @@
   },
   "active": "542ba1a6681c563f",
   "lastOpenFiles": [
+    "Frontend/Particle System.md",
+    "Frontend/The Odin Project.md",
     "Frontend/Portfolio Website (Next.js).md",
-    "Networks/ACK.md",
     "Backend/Basics.md",
+    "Networks/ACK.md",
     "Backend/REST API's.md",
     "Networks",
-    "Frontend/The Odin Project.md",
-    "Frontend/Particle System.md",
     "Interview Prep/DSA.md",
     "Devops/Elastic Stack.md",
     "Roadmap.canvas",
