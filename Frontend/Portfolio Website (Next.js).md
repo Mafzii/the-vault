@@ -2,4 +2,9 @@
 - [x] complete gmail api integration for contact form
 - [x] update content like about section
 - [ ] see options for typography and further animation (ask someone?)
+- [ ] animate the error and success messages on contact form
+- [ ] test out different hover effects on existing components
+- [ ] rewrite the written content
+- [ ] add disclaimer in projects section
+- [ ] add on click links to the github repo of each project
 - [ ] 
