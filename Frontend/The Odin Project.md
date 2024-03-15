@@ -84,5 +84,14 @@
 	- This list of functions and values can be changed to create custom objects that share functionality
 	- `class` is current convention, syntactic sugar over prototype based solution
 	- This is a more familiar way to handle objects and widely used
-- 
-
+- npm is the package manager for JS
+	- it creates a package.json file with all dependencies
+	- --save-dev saves the dependency as a devDependency
+	- --save saves it as a normal dependency
+	- this allows us to separate packages depending on what is needed in production vs development
+- Webpack is used to make JS code compatible with the browser via a build step
+	- Browser JS code does not have access to the file system so it cannot pick up dependencies from the node modules folder
+	- The build step has access to the file system where it will take all the dependencies and add it to a single output file (typically names dist/main.js), this is known as bundling
+	- The index.html file will point to this output JS file and all dependencies will be picked up from there as needed
+	- Example command for webpack: `./node_modules/.bin/webpack index.js --mode=development
+	- 
