@@ -1,12 +1,13 @@
 {
 	"nodes":[
 		{"id":"d2221a4f38b5484e","type":"text","text":"particle systems\n\n","x":100,"y":-280,"width":250,"height":60,"color":"4"},
-		{"id":"cfcc558fea7ed7ba","x":-640,"y":-440,"width":250,"height":60,"color":"6","type":"text","text":"first contributions\n"},
-		{"id":"86e61b9b23c569fb","x":-260,"y":-440,"width":250,"height":60,"color":"6","type":"text","text":"Backend Fundamentals\n"},
-		{"id":"fad78cc75a294fa5","x":100,"y":-440,"width":250,"height":60,"color":"4","type":"text","text":"portfolio-v1\n"},
-		{"id":"03e2c5b0e1e650a9","x":-60,"y":-860,"width":250,"height":60,"color":"#ffffff","type":"text","text":"2024"},
-		{"id":"2c59e3605b57991a","x":480,"y":-440,"width":250,"height":60,"color":"6","type":"text","text":"jenkins\n"},
-		{"id":"51d0f0a599a3ce82","x":190,"y":-120,"width":250,"height":60,"color":"6","type":"text","text":"The Odin Project\n"}
+		{"id":"cfcc558fea7ed7ba","type":"text","text":"first contributions\n","x":-640,"y":-440,"width":250,"height":60,"color":"6"},
+		{"id":"86e61b9b23c569fb","type":"text","text":"Backend Fundamentals\n","x":-260,"y":-440,"width":250,"height":60,"color":"6"},
+		{"id":"fad78cc75a294fa5","type":"text","text":"portfolio-v1\n","x":100,"y":-440,"width":250,"height":60,"color":"4"},
+		{"id":"03e2c5b0e1e650a9","type":"text","text":"2024","x":-60,"y":-860,"width":250,"height":60,"color":"#ffffff"},
+		{"id":"2c59e3605b57991a","type":"text","text":"Jenkins\n","x":480,"y":-440,"width":250,"height":60,"color":"6"},
+		{"id":"51d0f0a599a3ce82","type":"text","text":"The Odin Project\n","x":190,"y":-120,"width":250,"height":60,"color":"6"},
+		{"id":"6f7d31bf5b33f6cc","x":605,"y":-250,"width":250,"height":60,"color":"1","type":"text","text":"Docker\n"}
 	],
 	"edges":[
 		{"id":"3b149fb13335a945","fromNode":"03e2c5b0e1e650a9","fromSide":"bottom","toNode":"86e61b9b23c569fb","toSide":"top","label":"backend"},
@@ -14,6 +15,7 @@
 		{"id":"3592e61d3735e64c","fromNode":"fad78cc75a294fa5","fromSide":"bottom","toNode":"d2221a4f38b5484e","toSide":"top"},
 		{"id":"af25ffd5df15f68e","fromNode":"d2221a4f38b5484e","fromSide":"bottom","toNode":"51d0f0a599a3ce82","toSide":"top"},
 		{"id":"00ade75dbf3e9cd3","fromNode":"03e2c5b0e1e650a9","fromSide":"bottom","toNode":"cfcc558fea7ed7ba","toSide":"top","label":"open source"},
-		{"id":"949428a890c961d7","fromNode":"03e2c5b0e1e650a9","fromSide":"bottom","toNode":"2c59e3605b57991a","toSide":"top","label":"devops"}
+		{"id":"949428a890c961d7","fromNode":"03e2c5b0e1e650a9","fromSide":"bottom","toNode":"2c59e3605b57991a","toSide":"top","label":"devops"},
+		{"id":"2688de9035fe252c","fromNode":"2c59e3605b57991a","fromSide":"bottom","toNode":"6f7d31bf5b33f6cc","toSide":"top"}
 	]
 }
