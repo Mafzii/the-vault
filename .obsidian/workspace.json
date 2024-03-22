@@ -8,17 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "542ba1a6681c563f",
+            "id": "d2384c9d8ffb7ad3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Roadmap.canvas",
-                "viewState": {
-                  "x": 138.18999999999997,
-                  "y": -211.92249999999984,
-                  "zoom": -0.4594316186372974
-                }
+                "file": "Miscellaneous Questions.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roadmap.canvas",
+                "file": "Miscellaneous Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roadmap.canvas",
+                "file": "Miscellaneous Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roadmap.canvas"
+                "file": "Miscellaneous Questions.md"
               }
             }
           }
@@ -157,24 +154,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "542ba1a6681c563f",
+  "active": "d2384c9d8ffb7ad3",
   "lastOpenFiles": [
-    "Frontend/Projects/Portfolio Website (Next.js).md",
-    "Frontend/Projects/Particle System.md",
-    "Frontend/The Odin Project Notes.md",
+    "DSA/DSA.md",
+    "Miscellaneous Questions.md",
     "Devops/Elastic Stack.md",
     "Backend/Basics.md",
-    "Backend/REST API's.md",
     "Backend/Projects/Spring JWT Auth service.md",
-    "Interview Prep/DSA.md",
     "Images/Spring JWT Setup.png",
     "Images",
-    "Screenshot 2024-03-19 at 9.48.53 PM (2).png",
-    "Roadmap.canvas",
-    "Backend/Projects",
+    "Frontend/The Odin Project Notes.md",
+    "Frontend/Projects/Portfolio Website (Next.js).md",
+    "Frontend/Projects/Particle System.md",
     "Frontend/Projects",
+    "Backend/Projects",
+    "Frontend/Portfolio Website (Next.js).md",
+    "Frontend/Particle System.md",
+    "Frontend/The Odin Project.md",
+    "Frontend/Portfolio Website (Next.js).md",
     "Networks/ACK.md",
+    "Backend/REST API's.md",
     "Networks",
+    "Roadmap.canvas",
     "Frontend/Roadmap.canvas",
     "Rest.md",
     "Backend",
@@ -185,7 +186,7 @@
     "Interview Prep/Leetcode.md",
     "Interview Prep/DS&A",
     "2023-12-27.md",
-    "Interview Prep",
+    "DSA",
     "Frontend/The Odin Project",
     "README.md",
     "Untitled.canvas",
