@@ -94,4 +94,12 @@
 	- The build step has access to the file system where it will take all the dependencies and add it to a single output file (typically names dist/main.js), this is known as bundling
 	- The index.html file will point to this output JS file and all dependencies will be picked up from there as needed
 	- Example command for webpack: `./node_modules/.bin/webpack index.js --mode=development
-	- 
+- Babel is used to transpile JavaScript from ES6 to CommonJS which allows us to write modern JavaScript that is still compatible with older browsers
+- We can create workflows for these tools using a build step which automates different parts of the build process
+	- Task runners are used to automate the process, this includes tools like Grunt and Gulp
+	- Nowadays people use npm scripts
+- ES6 modules have replaced the module pattern (IIFEs) in JavaScript
+	- ES6 modules are used using `export default <function name>` and `import from '<file path>'` 
+	- This allows for code reuse as seen in modern frontend frameworks
+	- Only what has been exported can be accessed in other modules and they are only accessible in the file they have been imported to (locally scoped)
+	- Allows for easily maintainable code
