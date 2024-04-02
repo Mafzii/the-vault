@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miscellaneous Questions.md",
+                "file": "Frontend/Projects/Portfolio Website (Next.js).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2105ef70ce80057c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Projects/Folder Organizer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miscellaneous Questions.md",
+                "file": "Frontend/Projects/Folder Organizer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Miscellaneous Questions.md",
+                "file": "Frontend/Projects/Folder Organizer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Miscellaneous Questions.md"
+                "file": "Frontend/Projects/Folder Organizer.md"
               }
             }
           }
@@ -154,18 +167,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2384c9d8ffb7ad3",
+  "active": "2105ef70ce80057c",
   "lastOpenFiles": [
-    "DSA/DSA.md",
+    "Frontend/Projects/Particle System.md",
+    "Frontend/Projects/Folder Organizer.md",
+    "Frontend/Projects/Portfolio Website (Next.js).md",
     "Miscellaneous Questions.md",
+    "DSA/DSA.md",
     "Devops/Elastic Stack.md",
     "Backend/Basics.md",
     "Backend/Projects/Spring JWT Auth service.md",
     "Images/Spring JWT Setup.png",
     "Images",
     "Frontend/The Odin Project Notes.md",
-    "Frontend/Projects/Portfolio Website (Next.js).md",
-    "Frontend/Projects/Particle System.md",
     "Frontend/Projects",
     "Backend/Projects",
     "Frontend/Portfolio Website (Next.js).md",
