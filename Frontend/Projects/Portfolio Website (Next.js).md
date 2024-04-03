@@ -5,6 +5,6 @@
 - [x] animate the error and success messages on contact form
 - [x] test out different hover effects on existing components
 - [x] rewrite the written content
-- [ ] add disclaimer in projects section
+- [x] add disclaimer in projects section
 - [ ] add on click links to the github repo of each project
 - [ ] 

@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "542ba1a6681c563f",
+            "id": "5bb801837f1e0bd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Projects/Portfolio Website (Next.js).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2105ef70ce80057c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend/Projects/Folder Organizer.md",
+                "file": "Backend/APIs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/Projects/Folder Organizer.md",
+                "file": "Backend/APIs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/Projects/Folder Organizer.md",
+                "file": "Backend/APIs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/Projects/Folder Organizer.md"
+                "file": "Backend/APIs.md"
               }
             }
           }
@@ -167,25 +154,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2105ef70ce80057c",
+  "active": "5bb801837f1e0bd9",
   "lastOpenFiles": [
-    "Frontend/Projects/Particle System.md",
-    "Frontend/Projects/Folder Organizer.md",
+    "Templates/{{title}}.md",
+    "Backend/APIs.md",
     "Frontend/Projects/Portfolio Website (Next.js).md",
+    "Backend/Network Basics.md",
+    "Backend/Projects/Spring JWT Auth service.md",
+    "Frontend/Projects/Folder Organizer.md",
+    "Frontend/Projects/Folder.md",
+    "Templates",
+    "Frontend/The Odin Project Notes.md",
+    "Frontend/Projects/Particle System.md",
     "Miscellaneous Questions.md",
     "DSA/DSA.md",
     "Devops/Elastic Stack.md",
-    "Backend/REST API's.md",
-    "Backend/Projects/Spring JWT Auth service.md",
-    "Interview Prep/DSA.md",
     "Images/Spring JWT Setup.png",
     "Images",
-    "Frontend/The Odin Project Notes.md",
     "Frontend/Projects",
     "Backend/Projects",
-    "Frontend/Projects",
+    "Frontend/Portfolio Website (Next.js).md",
+    "Frontend/Particle System.md",
+    "Frontend/The Odin Project.md",
+    "Frontend/Portfolio Website (Next.js).md",
     "Networks/ACK.md",
+    "Backend/REST API's.md",
     "Networks",
+    "Roadmap.canvas",
     "Frontend/Roadmap.canvas",
     "Rest.md",
     "Backend",
@@ -196,13 +191,11 @@
     "Interview Prep/Leetcode.md",
     "Interview Prep/DS&A",
     "2023-12-27.md",
-    "Interview Prep",
+    "DSA",
     "README.md",
     "Untitled.canvas",
     "Backend Roadmap/Untitled.canvas",
     "Backend Roadmap/Untitled.md",
-    "2023-12-04.md",
-    "2023-12-03.md",
-    "hello.md"
+    "2023-12-04.md"
   ]
 }

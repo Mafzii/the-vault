@@ -1,3 +1,8 @@
+---
+tags:
+  - project
+---
+
 ![[Spring JWT Setup.png]]
 
 ### Overview
