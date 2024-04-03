@@ -1,3 +1,8 @@
+---
+tags:
+  - network
+---
+
 ### Internet
 - The internet is like a wire 
 - Each computer has a unique identifier in an IP 
@@ -80,4 +85,3 @@
 - Readable names for IP addresses
 - DNS maintains a list of domain names and their associated IP addresses
 - Doesn't necessarily need to be a webpage, can be any resource like an image or video
-
