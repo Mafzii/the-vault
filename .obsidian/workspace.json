@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b55b2c697cdca1e1",
+        "id": "d293c4667bd29a4c",
         "type": "tabs",
         "children": [
           {
-            "id": "5bb801837f1e0bd9",
+            "id": "6bb3a555bbc9267c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backend/APIs.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/APIs.md",
+                "file": "Images/Response Codes Image.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/APIs.md",
+                "file": "Images/Response Codes Image.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/APIs.md"
+                "file": "Images/Response Codes Image.png"
               }
             }
           }
@@ -154,10 +150,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5bb801837f1e0bd9",
+  "active": "0da411b1b77efc26",
   "lastOpenFiles": [
-    "Templates/{{title}}.md",
     "Backend/APIs.md",
+    "Images/Response Codes Image.png",
+    "Templates/{{title}}.md",
     "Frontend/Projects/Portfolio Website (Next.js).md",
     "Backend/Network Basics.md",
     "Backend/Projects/Spring JWT Auth service.md",
@@ -195,7 +192,6 @@
     "README.md",
     "Untitled.canvas",
     "Backend Roadmap/Untitled.canvas",
-    "Backend Roadmap/Untitled.md",
-    "2023-12-04.md"
+    "Backend Roadmap/Untitled.md"
   ]
 }
