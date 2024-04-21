@@ -1,0 +1,12 @@
+- [ ] rendering engine
+	- [x] minus offset from the client x and y 
+	- [ ] add more offset variables like box, button and other components size
+	- [ ] add hover effect to create an outline of the item hovered on
+	- [ ] create box with the box size offset
+	- [ ] make rendering engine utils class
+	- [ ] make arrow creation by holding down mouse
+	- [ ] create the initial folder tree when the search button is pressed
+		- [ ] folders will be boxes and files will be rectangles
+		- [ ] arrows will connect other folders and files
+	- [ ] users can delete arrows and change existing connections
+	- [ ] whenever any action is taken update the canvas object from JSONCanvas
