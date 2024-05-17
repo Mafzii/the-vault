@@ -103,3 +103,13 @@
 	- This allows for code reuse as seen in modern frontend frameworks
 	- Only what has been exported can be accessed in other modules and they are only accessible in the file they have been imported to (locally scoped)
 	- Allows for easily maintainable code
+- ESLint vs Prettier
+	- Orgs follow style guides that influence how their employees write their code
+	- ESLint is a ruleset of such styles that are highlighted as warnings or errors in code
+	- A basic example is the warning when var is used instead of let or const in JS
+	- Prettier is a formatter
+	- It formats code according to certain rules which allows code to be uniform in format across orgs.
+- Template repositories:
+	- When creating projects with similar tech stacks and setup use a template repo
+	- This will allow use to reuse webpack config etc. in our new projects
+	- 

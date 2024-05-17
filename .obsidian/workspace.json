@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b55b2c697cdca1e1",
+        "id": "d293c4667bd29a4c",
         "type": "tabs",
         "children": [
           {
-            "id": "542ba1a6681c563f",
+            "id": "6bb3a555bbc9267c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Projects/FileWiz.md",
+                "file": "Frontend/The Odin Project Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/Projects/FileWiz.md",
+                "file": "Frontend/The Odin Project Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/Projects/FileWiz.md",
+                "file": "Frontend/The Odin Project Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/Projects/FileWiz.md"
+                "file": "Frontend/The Odin Project Notes.md"
               }
             }
           }
@@ -154,33 +154,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "542ba1a6681c563f",
+  "active": "6bb3a555bbc9267c",
   "lastOpenFiles": [
-    "Roadmap.canvas",
     "Frontend/Projects/FileWiz.md",
-    "Templates/{{title}}.md",
-    "Templates",
-    "Images/Response Codes Image.png",
-    "Frontend/Projects/Folder Organizer.md",
-    "Backend/Network Basics.md",
+    "Frontend/Projects/Portfolio Website (Next.js).md",
     "Backend/APIs.md",
+    "Roadmap.canvas",
+    "Images/Response Codes Image.png",
+    "Templates/{{title}}.md",
+    "Backend/Network Basics.md",
+    "Backend/Projects/Spring JWT Auth service.md",
+    "Frontend/Projects/Folder Organizer.md",
+    "Frontend/Projects/Folder.md",
+    "Templates",
     "Frontend/The Odin Project Notes.md",
-    "Backend/Basics.md",
+    "Frontend/Projects/Particle System.md",
     "Miscellaneous Questions.md",
     "DSA/DSA.md",
-    "DSA",
-    "Frontend/Projects/Portfolio Website (Next.js).md",
-    "Frontend/Projects/Particle System.md",
     "Devops/Elastic Stack.md",
-    "Backend/REST API's.md",
-    "Backend/Projects/Spring JWT Auth service.md",
-    "Interview Prep/DSA.md",
     "Images/Spring JWT Setup.png",
     "Images",
-    "Screenshot 2024-03-19 at 9.48.53 PM (2).png",
-    "Backend/Projects",
     "Frontend/Projects",
+    "Backend/Projects",
+    "Frontend/Portfolio Website (Next.js).md",
+    "Frontend/Particle System.md",
+    "Frontend/The Odin Project.md",
+    "Frontend/Portfolio Website (Next.js).md",
     "Networks/ACK.md",
+    "Backend/REST API's.md",
     "Networks",
     "Frontend/Roadmap.canvas",
     "Rest.md",
@@ -192,11 +193,10 @@
     "Interview Prep/Leetcode.md",
     "Interview Prep/DS&A",
     "2023-12-27.md",
+    "DSA",
     "README.md",
     "Untitled.canvas",
     "Backend Roadmap/Untitled.canvas",
-    "Backend Roadmap/Untitled.md",
-    "2023-12-04.md",
-    "2023-12-03.md"
+    "Backend Roadmap/Untitled.md"
   ]
 }
