@@ -2,7 +2,6 @@
 tags:
   - network
 ---
-
 ### Internet
 - The internet is like a wire 
 - Each computer has a unique identifier in an IP 

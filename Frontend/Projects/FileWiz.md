@@ -1,3 +1,4 @@
+- [ ] get a better understanding of the canvas api
 - [ ] rendering engine
 	- [x] minus offset from the client x and y 
 	- [x] rounded box on click
