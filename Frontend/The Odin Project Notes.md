@@ -112,4 +112,29 @@
 - Template repositories:
 	- When creating projects with similar tech stacks and setup use a template repo
 	- This will allow use to reuse webpack config etc. in our new projects
-	- 
+- Asynchronous Code:
+	- Avoid callback hell; create functions as variables and pass those variables as callbacks
+	- Ideally keep code shallow instead of over nesting
+	- Modularize to create clearer separation and convey idea through function name
+	```
+		// modularized and called by declared name
+		module.exports.submit = formSubmit
+		
+		function formSubmit (submitEvent) {
+		  var name = document.querySelector('input').value
+		  request({
+		    uri: "http://example.com/upload",
+		    body: name,
+		    method: "POST"
+		  }, postResponse)
+		}
+		
+		function postResponse (err, response, body) {
+		  var statusMessage = document.querySelector('.status')
+		  if (err) return statusMessage.value = err
+		  statusMessage.value = body
+		}
+	```
+	- Function hoisting allows us to declare the function after its usage in the code
+		- When the code is run the function formSubmit and postResponse will be declared before any code is executed
+	- To handle errors in callbacks the first line should always be to catch errors
