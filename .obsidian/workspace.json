@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/The Odin Project Notes.md",
+                "file": "DSA/Linked Lists/Merge 2 Sorted Lists.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/The Odin Project Notes.md",
+                "file": "DSA/Linked Lists/Merge 2 Sorted Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/The Odin Project Notes.md",
+                "file": "DSA/Linked Lists/Merge 2 Sorted Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/The Odin Project Notes.md"
+                "file": "DSA/Linked Lists/Merge 2 Sorted Lists.md"
               }
             }
           }
@@ -156,9 +156,11 @@
   },
   "active": "6bb3a555bbc9267c",
   "lastOpenFiles": [
-    "DSA/Merge 2 Sorted Lists.md",
-    "Templates/{{title}}.md",
+    "DSA/Linked Lists/Remove Nth Node From End of List.md",
+    "DSA/Linked Lists/Merge 2 Sorted Lists.md",
+    "DSA/Linked Lists",
     "Frontend/The Odin Project Notes.md",
+    "Templates/{{title}}.md",
     "Frontend/Projects/Folder Organizer.md",
     "Frontend/Projects/FileWiz.md",
     "Frontend/Projects/Particle System.md",
@@ -193,10 +195,7 @@
     "Interview Prep/Leetcode/Stack.md",
     "Interview Prep/Leetcode.md",
     "Interview Prep/DS&A",
-    "2023-12-27.md",
-    "DSA",
     "Untitled.canvas",
-    "Backend Roadmap/Untitled.canvas",
-    "Backend Roadmap/Untitled.md"
+    "Backend Roadmap/Untitled.canvas"
   ]
 }
