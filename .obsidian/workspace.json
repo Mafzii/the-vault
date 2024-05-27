@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d293c4667bd29a4c",
+        "id": "2c768cd1e3659398",
         "type": "tabs",
         "children": [
           {
-            "id": "6bb3a555bbc9267c",
+            "id": "4851518cf199855a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Linked Lists/Merge 2 Sorted Lists.md",
+                "file": "DSA/Trees/Invert Binary Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Linked Lists/Merge 2 Sorted Lists.md",
+                "file": "DSA/Trees/Invert Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Linked Lists/Merge 2 Sorted Lists.md",
+                "file": "DSA/Trees/Invert Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Linked Lists/Merge 2 Sorted Lists.md"
+                "file": "DSA/Trees/Invert Binary Tree.md"
               }
             }
           }
@@ -154,10 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6bb3a555bbc9267c",
+  "active": "0da411b1b77efc26",
   "lastOpenFiles": [
-    "DSA/Linked Lists/Remove Nth Node From End of List.md",
+    "DSA/Trees",
+    "DSA/Trees/Invert Binary Tree.md",
     "DSA/Linked Lists/Merge 2 Sorted Lists.md",
+    "Untitled.md",
+    "DSA/Linked Lists/Linked List Cycle.md",
+    "DSA/Linked Lists/Untitled.md",
+    "DSA/Linked Lists/Remove Nth Node From End of List.md",
     "DSA/Linked Lists",
     "Frontend/The Odin Project Notes.md",
     "Templates/{{title}}.md",
@@ -187,13 +192,9 @@
     "Backend/REST API's.md",
     "Networks",
     "Frontend/Roadmap.canvas",
-    "Rest.md",
     "Backend",
     "Devops",
     "Devops/ELK",
-    "Interview Prep/LeetCode.md",
-    "Interview Prep/Leetcode/Stack.md",
-    "Interview Prep/Leetcode.md",
     "Interview Prep/DS&A",
     "Untitled.canvas",
     "Backend Roadmap/Untitled.canvas"
