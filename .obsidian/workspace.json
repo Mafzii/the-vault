@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Trees/Invert Binary Tree.md",
+                "file": "DSA/Linked Lists/Reorder List.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Trees/Invert Binary Tree.md",
+                "file": "DSA/Linked Lists/Reorder List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Trees/Invert Binary Tree.md",
+                "file": "DSA/Linked Lists/Reorder List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Trees/Invert Binary Tree.md"
+                "file": "DSA/Linked Lists/Reorder List.md"
               }
             }
           }
@@ -154,15 +154,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0da411b1b77efc26",
+  "active": "4851518cf199855a",
   "lastOpenFiles": [
-    "DSA/Trees",
+    "DSA/Linked Lists/Remove Nth Node From End of List.md",
+    "DSA/Linked Lists/Reorder List.md",
     "DSA/Trees/Invert Binary Tree.md",
+    "DSA/Trees",
     "DSA/Linked Lists/Merge 2 Sorted Lists.md",
     "Untitled.md",
     "DSA/Linked Lists/Linked List Cycle.md",
     "DSA/Linked Lists/Untitled.md",
-    "DSA/Linked Lists/Remove Nth Node From End of List.md",
     "DSA/Linked Lists",
     "Frontend/The Odin Project Notes.md",
     "Templates/{{title}}.md",
@@ -195,7 +196,6 @@
     "Backend",
     "Devops",
     "Devops/ELK",
-    "Interview Prep/DS&A",
     "Untitled.canvas",
     "Backend Roadmap/Untitled.canvas"
   ]
