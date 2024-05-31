@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2c768cd1e3659398",
+        "id": "2d7b9d1da4a17ce9",
         "type": "tabs",
         "children": [
           {
-            "id": "4851518cf199855a",
+            "id": "ab29a881817606f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Linked Lists/Reorder List.md",
+                "file": "DSA/Trees/Max Depth of a Binary Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Linked Lists/Reorder List.md",
+                "file": "DSA/Trees/Max Depth of a Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Linked Lists/Reorder List.md",
+                "file": "DSA/Trees/Max Depth of a Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Linked Lists/Reorder List.md"
+                "file": "DSA/Trees/Max Depth of a Binary Tree.md"
               }
             }
           }
@@ -154,11 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4851518cf199855a",
+  "active": "ab29a881817606f0",
   "lastOpenFiles": [
-    "DSA/Linked Lists/Remove Nth Node From End of List.md",
-    "DSA/Linked Lists/Reorder List.md",
     "DSA/Trees/Invert Binary Tree.md",
+    "DSA/Trees/Max Depth of a Binary Tree.md",
+    "DSA/Trees/Untitled.md",
+    "DSA/Linked Lists/Reorder List.md",
+    "DSA/Linked Lists/Remove Nth Node From End of List.md",
     "DSA/Trees",
     "DSA/Linked Lists/Merge 2 Sorted Lists.md",
     "Untitled.md",
@@ -189,8 +191,6 @@
     "Frontend/Particle System.md",
     "Frontend/The Odin Project.md",
     "Frontend/Portfolio Website (Next.js).md",
-    "Networks/ACK.md",
-    "Backend/REST API's.md",
     "Networks",
     "Frontend/Roadmap.canvas",
     "Backend",
