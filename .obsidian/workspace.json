@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2d7b9d1da4a17ce9",
+        "id": "1210231eeb7a8e0b",
         "type": "tabs",
         "children": [
           {
-            "id": "ab29a881817606f0",
+            "id": "1c8b0ab7aee91f73",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Trees/Max Depth of a Binary Tree.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Trees/Max Depth of a Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Trees/Max Depth of a Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DSA/Trees/Max Depth of a Binary Tree.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab29a881817606f0",
+  "active": "1c8b0ab7aee91f73",
   "lastOpenFiles": [
-    "DSA/Trees/Invert Binary Tree.md",
+    "DSA/Trees/Same Tree.md",
     "DSA/Trees/Max Depth of a Binary Tree.md",
+    "DSA/Trees/Invert Binary Tree.md",
     "DSA/Trees/Untitled.md",
     "DSA/Linked Lists/Reorder List.md",
     "DSA/Linked Lists/Remove Nth Node From End of List.md",
@@ -190,7 +183,6 @@
     "Frontend/Portfolio Website (Next.js).md",
     "Frontend/Particle System.md",
     "Frontend/The Odin Project.md",
-    "Frontend/Portfolio Website (Next.js).md",
     "Networks",
     "Frontend/Roadmap.canvas",
     "Backend",
