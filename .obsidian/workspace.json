@@ -11,8 +11,12 @@
             "id": "1c8b0ab7aee91f73",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Backend/APIs.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Backend/APIs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Backend/APIs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Backend/APIs.md"
+              }
             }
           }
         ]
@@ -148,6 +156,11 @@
   },
   "active": "1c8b0ab7aee91f73",
   "lastOpenFiles": [
+    "Backend/CORS.md",
+    "Backend/APIs.md",
+    "Backend/Projects/Spring JWT Auth service.md",
+    "Backend/Network Basics.md",
+    "Untitled.md",
     "DSA/Trees/Same Tree.md",
     "DSA/Trees/Max Depth of a Binary Tree.md",
     "DSA/Trees/Invert Binary Tree.md",
@@ -156,7 +169,6 @@
     "DSA/Linked Lists/Remove Nth Node From End of List.md",
     "DSA/Trees",
     "DSA/Linked Lists/Merge 2 Sorted Lists.md",
-    "Untitled.md",
     "DSA/Linked Lists/Linked List Cycle.md",
     "DSA/Linked Lists/Untitled.md",
     "DSA/Linked Lists",
@@ -169,11 +181,8 @@
     "README.md",
     "Miscellaneous Questions.md",
     "Devops/Elastic Stack.md",
-    "Backend/Network Basics.md",
-    "Backend/APIs.md",
     "Roadmap.canvas",
     "Images/Response Codes Image.png",
-    "Backend/Projects/Spring JWT Auth service.md",
     "Frontend/Projects/Folder.md",
     "Templates",
     "Images/Spring JWT Setup.png",
@@ -181,8 +190,6 @@
     "Frontend/Projects",
     "Backend/Projects",
     "Frontend/Portfolio Website (Next.js).md",
-    "Frontend/Particle System.md",
-    "Frontend/The Odin Project.md",
     "Networks",
     "Frontend/Roadmap.canvas",
     "Backend",
