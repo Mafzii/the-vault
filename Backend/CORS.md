@@ -1,6 +1,7 @@
 ---
 tags:
   - backend
+  - network
 ---
 If we send a fetch request to another web-site, it will probably fail.
 
