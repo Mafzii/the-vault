@@ -15,4 +15,5 @@ tags:
 - The signature ensures the token has not been altered. This can be done with a secret (key) only known to the sender and receiver or the sender encodes it with his private key and the receiver decodes it with the senders public key.
 - Example: OAuth Bearer Tokens
 	- An authorization server creates a JWT at the request of a client and signs it so that it cannot be altered by any other party. The client will then send this JWT with its request to a REST API. The REST API will verify that the JWT’s signature matches its payload and header to determine that the JWT is valid. When the REST API has verified the JWT, it can use the claims to either grant or deny the client’s request.
-	- 
+
+- Check out refresh and access token authentication for user session authentication (use in projects)
