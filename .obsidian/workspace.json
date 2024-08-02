@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Authentication.md",
+                "file": "Stack.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Authentication.md",
+                "file": "Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Authentication.md",
+                "file": "Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Authentication.md"
+                "file": "Stack.md"
               }
             }
           }
@@ -154,12 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c8b0ab7aee91f73",
+  "active": "0da411b1b77efc26",
   "lastOpenFiles": [
+    "Backend/Authentication.md",
+    "Stack.md",
     "Backend/CORS.md",
     "Backend/Network Basics.md",
     "Backend/APIs.md",
-    "Backend/Authentication.md",
     "Untitled.md",
     "Backend/Projects/Spring JWT Auth service.md",
     "DSA/Trees/Same Tree.md",
@@ -190,7 +191,6 @@
     "Images",
     "Frontend/Projects",
     "Backend/Projects",
-    "Frontend/Portfolio Website (Next.js).md",
     "Networks",
     "Frontend/Roadmap.canvas",
     "Backend",
