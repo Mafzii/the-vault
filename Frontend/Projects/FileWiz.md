@@ -3,7 +3,7 @@
 	- [x] minus offset from the client x and y 
 	- [x] rounded box on click
 	- [x] add more offset variables like box, button and other components size
-	- [ ] panning and zooming 
+	- [x] panning and zooming 
 	- [ ] add hover effect to create an outline of the item hovered on
 	- [ ] create box with the box size offset
 	- [ ] make rendering engine utils class
